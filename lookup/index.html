@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Leaflet lookup</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Leaflet lookup</h1>
+      <p class="sub">Search products in the PDF leaflets stored in this repo.</p>
+      <form class="search-row" id="form">
+        <input
+          id="q"
+          type="search"
+          placeholder="e.g. chicken, peppers, cashew…"
+          autocomplete="off"
+          autofocus
+        />
+        <button type="submit">Search</button>
+      </form>
+      <p id="meta"></p>
+      <div id="results"></div>
+    </main>
+    <script src="products.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
