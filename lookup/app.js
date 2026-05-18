@@ -221,7 +221,7 @@
           <p class="price">${escapeHtml(item.price)}</p>
           ${renderTags(item.tags)}
           <p class="leaflet">${escapeHtml(item.leaflet)} · page ${item.page}</p>
-          <a href="${escapeHtml(item.pdfHref)}">Open page ${item.page} in PDF</a>
+          <a href="${escapeHtml(item.pdfHref)}" target="_blank" rel="noopener noreferrer">Open page ${item.page} in PDF</a>
         </article>
       `,
       )
