@@ -1,5 +1,5 @@
 window.LEAFLET_INDEX = {
-  "indexedAt": "2026-05-18T10:15:38.665856+00:00",
+  "indexedAt": "2026-05-24T14:22:50.578238+00:00",
   "leaflets": [
     {
       "file": "ALDI IE  - ALDI IE Thur  14May _ Sun 17 May.pdf",
@@ -2948,6 +2948,631 @@ window.LEAFLET_INDEX = {
         {
           "name": "piezo ignition system. With a reliable, high quality integrated a side burner (3kW). burner gas barbecue (2.5kW each) with Burner Gas Barbecue",
           "price": "€149.99",
+          "page": 32
+        }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
+      ]
+    },
+    {
+      "file": "From-Thu-28-05-to-Wed-03-06-May-to-June-00.pdf",
+      "pageCount": 32,
+      "items": [
+        {
+          "name": "Holdall Wheeled ESMARA",
+          "price": "€17.99",
+          "page": 1
+        },
+        {
+          "name": "Burrata ITALIAMO",
+          "price": "€2.99",
+          "page": 1
+        },
+        {
+          "name": "Vacuum Cleaner 1400W Wet Dry PARKSIDE",
+          "price": "€89.99",
+          "page": 1
+        },
+        {
+          "name": "Weather and UV-resistant. Garden Sofa Set LIVARNO",
+          "price": "€179.99",
+          "page": 1
+        },
+        {
+          "name": "1Piece pack Apples PINK LADY",
+          "price": "€1.99",
+          "page": 1
+        },
+        {
+          "name": "1Piece pack Apples PINK LADY",
+          "price": "€1.99",
+          "page": 2
+        },
+        {
+          "name": "Asparagus Tips DELUXE",
+          "price": "€0.90",
+          "page": 3
+        },
+        {
+          "name": "Irish Rooster Potatoes FARRELL'S",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "Extra Fine Beans DELUXE",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "1Piece Loose Orange Pepper",
+          "price": "€0.59",
+          "page": 3
+        },
+        {
+          "name": "King Prawns LIGHTHOUSE BAY Sensational Seafood",
+          "price": "€1.39",
+          "page": 4
+        },
+        {
+          "name": "Irish Beef Meatballs Kids’ Favourite",
+          "price": "€8.99",
+          "page": 4
+        },
+        {
+          "name": "Mini Breaded Chicken Fillets",
+          "price": "€4.49",
+          "page": 5
+        },
+        {
+          "name": "Irish Turkey Breast Fillets Irish Turkey",
+          "price": "€1.35",
+          "page": 5
+        },
+        {
+          "name": "1kg Up to Irish Pork Fillet Irish Pork",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "Fat Irish Lean Beef Steak Mince Irish Beef",
+          "price": "€4.99",
+          "page": 5
+        },
+        {
+          "name": "1kg 3x300g Stonebaked Margherita TRATTORIA ALFREDO",
+          "price": "€3.55",
+          "page": 6
+        },
+        {
+          "name": "1kg Skin-On Fries HARVEST BASKET waiting in the frozen Dinner winners...",
+          "price": "€2.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 450g Chicken Dippers Chicken Nuggets RED HEN",
+          "price": "€1.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 800g Cocktail Sausage Rolls CHEF SELECT .²⁹",
+          "price": "€2.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 1k 377g Pepperoni P Pizza Deep D Pan Double TRATTORIA T ALFREDO",
+          "price": "€1.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 380g Shredded Chicken Salt Chilli RED HEN",
+          "price": "€3.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 250g Breaded Camembert Jalapeño Poppers Mozzarella Sticks",
+          "price": "€2.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 400g Vegetable Chicken Large Spring Rolls CULINEA",
+          "price": "€1.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 170g Halloumi Style Fries CHEF SELECT .⁶⁹",
+          "price": "€2.00",
+          "page": 7
+        },
+        {
+          "name": "1kg 1k 377g Pepperoni P Pizza Deep D Pan Double TRATTORIA T ALFREDO",
+          "price": "€0.00",
+          "page": 7
+        },
+        {
+          "name": "Original PHILADELPHIA",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "Garden Peas GREEN ISLE",
+          "price": "€1.49",
+          "page": 8
+        },
+        {
+          "name": "1l Up to X 65ml/4 x 100ml Iceberger Loop The Loop HB",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "PRINGLES",
+          "price": "€1.74",
+          "page": 8
+        },
+        {
+          "name": "Lasagne CARROLL’S",
+          "price": "€0.99",
+          "page": 8
+        },
+        {
+          "name": "1l 75ml Action Fresh Toothpaste 3D White ORAL B",
+          "price": "€0.89",
+          "page": 9
+        },
+        {
+          "name": "1kg 300g Dolce Gusto Cafe Au Lait NESCAFE",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "Tuna JOHN",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "Pack Cheese Onion",
+          "price": "€4.25",
+          "page": 9
+        },
+        {
+          "name": "1l 50ml Roll-On Deodorant SANEX",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "1l 12x330ml Alc. Vol. Genuine Draft MILLER",
+          "price": "€14.68",
+          "page": 10
+        },
+        {
+          "name": "1l 1l x 440ml Return Deposit Alc. Vol. Alc. Lager",
+          "price": "€2.39",
+          "page": 10
+        },
+        {
+          "name": "1l 1l 15x500ml Deposit Return Alc. Alc. Vol. Lager",
+          "price": "€5.45",
+          "page": 10
+        },
+        {
+          "name": "Return Deposit",
+          "price": "€5.45",
+          "page": 10
+        },
+        {
+          "name": "Return Alc. Lager",
+          "price": "€11.99",
+          "page": 10
+        },
+        {
+          "name": "700ml Alc. Vol. Original Spiced Rum CAPTAIN MORGAN",
+          "price": "€19.33",
+          "page": 11
+        },
+        {
+          "name": "700ml Alc. Vol. Premium Pink Gin GORDON'S",
+          "price": "€0.71",
+          "page": 11
+        },
+        {
+          "name": "700ml Alc. Vol. White Rum BACARDI",
+          "price": "€0.71",
+          "page": 11
+        },
+        {
+          "name": "700ml Alc. Vol. Vodka ABSOLUT",
+          "price": "€2.09",
+          "page": 11
+        },
+        {
+          "name": "700ml 700ml Alc. Vol. Alc. Irish Whiskey Irish POWERS",
+          "price": "€2.09",
+          "page": 11
+        },
+        {
+          "name": "700ml Alc. Vol. SMIRNOFF VODKA GORDON'S GIN Prices",
+          "price": "€0.71",
+          "page": 11
+        },
+        {
+          "name": "700ml Alc. Vol. Irish Whiskey JAMESON",
+          "price": "€2.09",
+          "page": 11
+        },
+        {
+          "name": "1kg Up to Unit Price: Triple Cooked Chips Stonebaked HARVEST BASKET CHEF SELECT",
+          "price": "€1.71",
+          "page": 12
+        },
+        {
+          "name": "Smoked Salami Slices DULANO",
+          "price": "€1.18",
+          "page": 12
+        },
+        {
+          "name": "Rocket Leaves MEADOW FRESH",
+          "price": "€0.74",
+          "page": 12
+        },
+        {
+          "name": "Vintage Cheddar DELUXE",
+          "price": "€1.82",
+          "page": 12
+        },
+        {
+          "name": "1kg 492g Sausages Irish Hand Tied Pork DELUXE",
+          "price": "€1.79",
+          "page": 12
+        },
+        {
+          "name": "1kg 100g Instant Coffee Barista Premium BELLAROM",
+          "price": "€0.60",
+          "page": 13
+        },
+        {
+          "name": "1kg 1l 150g 1.5l Unit Price: Return Deposit Irish Yogurts Squash DELUXE",
+          "price": "€1.11",
+          "page": 13
+        },
+        {
+          "name": "bolognese and veal. pecorino cheese, lasagne, Food Pairing: Tomato pasta, touch of smokiness. blackberries, ﬂ inty notes and a",
+          "price": "€2.99",
+          "page": 13
+        },
+        {
+          "name": "lighter dishes. with poultry and Food Pairing: Excellent elegant, and refreshing. Tasting Notes: Light,",
+          "price": "€0.19",
+          "page": 13
+        },
+        {
+          "name": "1kg Peanutbutter MARIBEL 1kg 65g",
+          "price": "€1.72",
+          "page": 13
+        },
+        {
+          "name": "1l 250ml Pistachio Oil ITALIAMO",
+          "price": "€4.00",
+          "page": 14
+        },
+        {
+          "name": "1l 500ml Virgin Olive Oil Premium Extra ITALIAMO",
+          "price": "€6.00",
+          "page": 14
+        },
+        {
+          "name": "Tomatoes Sun-Dried ITALIAMO",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "1l 720ml with Basil Tomato Sauce ITALIAMO",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "Tarallini Green Olives Bella di Cerignola ITALIAMO",
+          "price": "€1.99",
+          "page": 15
+        },
+        {
+          "name": "Cheese Slices Provoletta ITALIAMO",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "Tarallini ITALIAMO",
+          "price": "€2.00",
+          "page": 15
+        },
+        {
+          "name": "Burrata ITALIAMO .⁷⁹",
+          "price": "€2.00",
+          "page": 15
+        },
+        {
+          "name": "Cheese Provolone ITALIAMO Tarallini .⁷⁹ ITALIAMO",
+          "price": "€3.00",
+          "page": 15
+        },
+        {
+          "name": "Prosciutto Crudo ITALIAMO .⁴⁹ Cheese",
+          "price": "€9.00",
+          "page": 15
+        },
+        {
+          "name": "Chocolate Filling Croissants with ITALIAMO",
+          "price": "€3.00",
+          "page": 16
+        },
+        {
+          "name": "Tiramisù ITALIAMO",
+          "price": "€2.00",
+          "page": 16
+        },
+        {
+          "name": "Fingers Sponge Savoiardi ITALIAMO",
+          "price": "€3.00",
+          "page": 16
+        },
+        {
+          "name": "Coffee Beans Espresso Magnifico ITALIAMO !\"#$€·",
+          "price": "€9.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Milk Chocolate Pistachios ITALIAMO",
+          "price": "€3.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Snacks Almond Chocolate Croccantini",
+          "price": "€2.00",
+          "page": 17
+        },
+        {
+          "name": "1kg 400g Spread 1kg Cocoa Hazelnut Unit",
+          "price": "€2.00",
+          "page": 17
+        },
+        {
+          "name": "AB;C to your BBQ with Lidl",
+          "price": "€0.75",
+          "page": 18
+        },
+        {
+          "name": "is handle Holdall",
+          "price": "€17.99",
+          "page": 19
+        },
+        {
+          "name": "electronics case. (e.g. for laptops up to with integrated, Padded heavy duty compartment closest to with the hand luggage regulations of most Ideal cabin size with optimum use of space",
+          "price": "€2.00",
+          "page": 19
+        },
+        {
+          "name": "69L. 360° spinning wheels. x 26–29cm smooth-running twin 108L. Cabin Case ESMARA including",
+          "price": "€2.00",
+          "page": 19
+        },
+        {
+          "name": "Capacity: 62L; expanded: 69L. including wheels: x x 26–29cm Medium suitcase: Dimensions Capacity: 96L; expanded: 108L. wheels: x x 29–32cm",
+          "price": "€6.00",
+          "page": 19
+        },
+        {
+          "name": "Weekend Bag ESMARA",
+          "price": "€1.00",
+          "page": 19
+        },
+        {
+          "name": "controlled polisher with Ø metallic surfaces. removing scratches polishing weathered",
+          "price": "€3.00",
+          "page": 20
+        },
+        {
+          "name": "height to suit you (max. extension 30cm). Extendable suction tube so you can adjust the extracting water. Can also be used as a blower or for for your workshop, garage, DIY or car.",
+          "price": "€89.99",
+          "page": 20
+        },
+        {
+          "name": "for accurate tool with 2-speed Polisher/Sander Cordless PARKSIDE",
+          "price": "€2.00",
+          "page": 20
+        },
+        {
+          "name": "power bank with Compressor Bank with ULTIMATE SPEED loss of pressure.",
+          "price": "€5.00",
+          "page": 21
+        },
+        {
+          "name": "out and about. Small, ideal for when cordless mini Compressor Cordless",
+          "price": "€2.00",
+          "page": 21
+        },
+        {
+          "name": "compressed air overload protection. lighter) with via a 12V connection Compressor",
+          "price": "€1.00",
+          "page": 21
+        },
+        {
+          "name": "process. fully diagnostics microprocessor SPEED",
+          "price": "€12.99",
+          "page": 21
+        },
+        {
+          "name": "Pre-installed water filter. Accessory storage. Easy transportation. Quick Connect easy hose connection. 1600W Pressure Washer KÄRCHER",
+          "price": "€1.00",
+          "page": 21
+        },
+        {
+          "name": "Fire Extinguisher Unit Car",
+          "price": "€1.99",
+          "page": 22
+        },
+        {
+          "name": "Protects upholstery from includes high back Support Cover with SPEED",
+          "price": "€9.00",
+          "page": 22
+        },
+        {
+          "name": "Assortment Seat Pad/Cushion ULTIMATE SPEED .⁹⁹",
+          "price": "€9.00",
+          "page": 22
+        },
+        {
+          "name": "and more. bandages, disposable gloves bandages, compression blanket, dressings, conforming Includes plasters, emergency",
+          "price": "€5.00",
+          "page": 22
+        },
+        {
+          "name": "to 114cm. length adjustable from adapting to user height Extendable handle for clean cutting of lawn edges.",
+          "price": "€14.99",
+          "page": 23
+        },
+        {
+          "name": "station thanks to the integrated rain sensor. 750m². Weather-controlled lawn care automatically returns With rechargeable battery and charging station. Suitable 20V Robot Lawn Mower PARKSIDE",
+          "price": "€99.99",
+          "page": 23
+        },
+        {
+          "name": "engine starter.",
+          "price": "€49.99",
+          "page": 23
+        },
+        {
+          "name": "padding and seat With comfortable Lounger Wicker Sun LIVARNO",
+          "price": "€1.00",
+          "page": 25
+        },
+        {
+          "name": "Chair With Lidl Plus capacity: 110kg Max. weight",
+          "price": "€149.99",
+          "page": 25
+        },
+        {
+          "name": "With Lidl Plus Weather and UV-resistant. Garden Sofa Set LIVARNO piece set",
+          "price": "€179.99",
+          "page": 25
+        },
+        {
+          "name": "Plant Height: 18-22cm Pot Size: 13cm Blooming Joy Trio",
+          "price": "€3.00",
+          "page": 26
+        },
+        {
+          "name": "Plant Height: 75cm Pot Size: 19cm Patio Plants Bee Friendly",
+          "price": "€1.00",
+          "page": 26
+        },
+        {
+          "name": "Plant Height: 41cm Pot Size: 17cm Potted Rose in Sleeve Grown",
+          "price": "€1.00",
+          "page": 27
+        },
+        {
+          "name": "1l 20L Seed Cutting Compost GRANDIOL",
+          "price": "€2.00",
+          "page": 27
+        },
+        {
+          "name": "1l 20L Tub Basket Compost GRANDIOL",
+          "price": "€2.00",
+          "page": 27
+        },
+        {
+          "name": "Plant Height: 40cm Pot Size: 16cm Rose Exclusive Irish Grown",
+          "price": "€1.00",
+          "page": 27
+        },
+        {
+          "name": "Plant Height: 30cm Pot Size: 13cm Scented Dianthus",
+          "price": "€2.00",
+          "page": 27
+        },
+        {
+          "name": "hadt and more Feat. Karl Rosenfield, Sarah Bern- Plant Height: 20cm Pot Size: 19cm Chinese Peony Collection",
+          "price": "€6.00",
+          "page": 27
+        },
+        {
+          "name": "Plant Height: 50cm Pot Size: 21cm Extra Large Japanese Maple",
+          "price": "€1.00",
+          "page": 27
+        },
+        {
+          "name": "Plant Height: 30-40cm Pot Size: 12cm Plants Bloom Your Room",
+          "price": "€4.00",
+          "page": 27
+        },
+        {
+          "name": "Cleaner 2-in-1 Vacuum BOSCH",
+          "price": "€1.00",
+          "page": 28
+        },
+        {
+          "name": "Includes brush steam vertical steam and Steamer SILVERCREST®",
+          "price": "€1.00",
+          "page": 28
+        },
+        {
+          "name": "Charging time: up to hours. upright vacuum cleaner. Multifunctional can be used as a handheld or Cordless Cyclone Handheld Vacuum SILVERCREST®",
+          "price": "€1.00",
+          "page": 28
+        },
+        {
+          "name": "close at hand for taking breaks. With an adjustable hip belt storage pocket for valuables. separate air chambers and Buoy",
+          "price": "€9.00",
+          "page": 29
+        },
+        {
+          "name": "car cigarette or 20V",
+          "price": "€3.00",
+          "page": 29
+        },
+        {
+          "name": "and deﬂ ate function. Double-action pump with inﬂ ate paddle with ergonomic T-handle. Length-adjustable universal Sup Pump/Sup Paddle",
+          "price": "€1.00",
+          "page": 29
+        },
+        {
+          "name": "Buoyancy 50N. In sizes: M-XXL. Adult Buoyancy Aid and airﬂ ow 350l/min. Parkside battery Air pressure",
+          "price": "€4.00",
+          "page": 29
+        },
+        {
+          "name": "food and Assortment Bag With Lidl Plus Capacity: 15L",
+          "price": "€8.59",
+          "page": 30
+        },
+        {
+          "name": "Foldable with a carry bag. Beach Lounger CRIVIT",
+          "price": "€1.00",
+          "page": 30
+        },
+        {
+          "name": "Set SAVE to hours. drinks cool for up Keeps food and",
+          "price": "€1.99",
+          "page": 30
+        },
+        {
+          "name": "hours. drinks cool for up Keeps food and Assortment Cool Bag",
+          "price": "€5.00",
+          "page": 30
+        },
+        {
+          "name": "Built-in action camera mount. UV protection. snorkelling experience. field of vision for an enhanced Total panoramic view: extra-wide",
+          "price": "€12.99",
+          "page": 30
+        },
+        {
+          "name": "patches. and easy draining and includes repair and deﬂ ating with drain plug for fast Quick-release valves for easy inﬂ ating Jumbo Paddling Pool",
+          "price": "€15.19",
+          "page": 31
+        },
+        {
+          "name": "Size (inﬂ ated) 305x79x12 cm. Anti slip cut deck pad for secure grip. Max weight 100kg. increased rigidity. reinforced drop-stitch material for",
+          "price": "€19.99",
           "page": 32
         }
       ],
