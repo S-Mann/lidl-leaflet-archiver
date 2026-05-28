@@ -36,6 +36,10 @@ EURO_GLYPH = {
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 
 
+def number_cleanup(number: str) -> int:
+    return int(re.sub("[^0-9]", "", number))
+
+
 def is_noise_word(text: str) -> bool:
     text = text.strip()
     if len(text) < 2 and not text.isalpha():
@@ -62,7 +66,7 @@ def normalize_price(text: str) -> str:
     text = text.strip().translate(SUP)
     m = re.match(r"^(\d+)c$", text, re.I)
     if m:
-        return f"€{int(m.group(1)) / 100:.2f}"
+        return f"€{number_cleanup(m.group(1)) / 100:.2f}"
     if not text.startswith("€"):
         return text
     body = text[1:]
@@ -81,7 +85,7 @@ def normalize_price(text: str) -> str:
 
     euros = conv(euros_part)
     cents = conv(cents_part)[:2].ljust(2, "0")
-    return f"€{int(euros)}.{cents}"
+    return f"€{number_cleanup(euros)}.{cents}"
 
 
 def clean_name(name: str) -> str:
